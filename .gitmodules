@@ -1,0 +1,9 @@
+[submodule "archie-service-backend"]
+	path = archie-service-backend
+	url = https://github.com/blitzy-ai/archie-service-backend.git
+[submodule "archie-service-markdown"]
+	path = archie-service-markdown
+	url = https://github.com/blitzy-ai/archie-service-markdown.git
+[submodule "db-comman-model"]
+	path = db-comman-model
+	url = https://github.com/blitzy-ai/db-common-model.git
