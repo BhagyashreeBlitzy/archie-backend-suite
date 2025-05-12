@@ -4,6 +4,12 @@
 [submodule "archie-service-markdown"]
 	path = archie-service-markdown
 	url = https://github.com/blitzy-ai/archie-service-markdown.git
-[submodule "db-comman-model"]
-	path = db-comman-model
+[submodule "db-common-model"]
+	path = db-common-model
 	url = https://github.com/blitzy-ai/db-common-model.git
+[submodule "archie-platform-event-listener"]
+	path = archie-platform-event-listener
+	url = https://github.com/blitzy-ai/archie-platform-event-listener.git
+[submodule "archie-github-handler"]
+	path = archie-github-handler
+	url = https://github.com/blitzy-ai/archie-github-handler.git
